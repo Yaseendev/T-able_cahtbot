@@ -33,4 +33,3 @@ nltk==3.5
 tflearn==0.5.0
 tensorflow==1.15
 tensorflow-gpu==1.15
-json==3.4
