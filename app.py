@@ -31,7 +31,7 @@ def chat(inp):
                     responses = tg['responses']
             return random.choice(responses)
         else:
-            return "·„ √›Â„"
+            return "√°√£ √É√ù√•√£"
 
 with open("intents.json", encoding="utf-8") as file:
     data=json.load(file)
